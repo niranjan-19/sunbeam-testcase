@@ -6,5 +6,3 @@ console.log("Added in Branch b2");
 console.log("Added in Branch b2");
 console.log("Added in Branch b2");
 console.log("Added in Branch b2");
-console.log("Added in Branch b2");
-
